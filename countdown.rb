@@ -1,3 +1,3 @@
 def countdown(x)
-  while x < 10 
+  while x > 0  
 end
